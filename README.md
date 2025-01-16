@@ -21,41 +21,41 @@
 - colorama
 
 برای نصب این کتابخانه‌ها، می‌توانید از pip استفاده کنید:
-
+```
 bash
 pip install pyrogram prettytable telethon colorama
-
+```
 ### Ruby
 
 - colorize
 - terminal-table
 
 برای نصب این کتابخانه‌ها، می‌توانید از Bundler استفاده کنید یا به سادگی با استفاده از gem:
-
+```
 bash
 gem install colorize terminal-table
-
+```
 ## نحوه استفاده
 
 ### اجرای اسکریپت Ruby
 
 برای اجرای فایل Ruby، کافیست از دستور زیر استفاده کنید:
-
+```
 bash
 ruby main.rb
-
+```
 ### اجرای اسکریپت Python
 
 برای اجرای فایل Python، از دستور زیر استفاده کنید:
-
+```
 bash
 python report.py
-
+```
 یا
-
+```
 bash
 python reporter.py
-
+```
 ## نکات مهم
 
 - قبل از استفاده از این ابزار، اطمینان حاصل کنید که مجوزهای لازم برای گزارش‌دهی را دارید.
